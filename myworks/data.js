@@ -1,0 +1,1 @@
+var myData={designer:{name:'罗兰',phone:'18988710379',tag:[""],bg:'#375719'},gallery:[{src:"myworks/罗兰-01.jpg",w:1920,h:600},{src:"myworks/罗兰-04.jpg",w:1920,h:600},{src:"myworks/罗兰-02.jpg",w:1920,h:600},{src:"myworks/罗兰-06.jpg",w:1920,h:600},{src:"myworks/罗兰-08.jpg",w:1920,h:600},{src:"myworks/罗兰-09.jpg",w:1920,h:600},{src:"myworks/罗兰-10.jpg",w:1920,h:600},]}
